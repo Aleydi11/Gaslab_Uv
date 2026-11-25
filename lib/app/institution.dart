@@ -23,7 +23,8 @@ class Institution {
   /// Integrantes del equipo. Complete los apellidos / agregue más nombres.
   static const List<String> members = [
     'Aleydi Breton Rodríguez',
-    'Disire [completar apellidos]',
+    'Andrea Desireé López Gutiérrez',
+    'Katheryne Lizbeth González Sánchez',
   ];
 
   /// Ruta del logotipo institucional AUTORIZADO (por ejemplo
